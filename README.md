@@ -1,5 +1,7 @@
 # Code examples for Master Class: Monitoring and alerting in Rancher 2.5
 
+FYI, https://www.youtube.com/watch?v=al7DdC-ZJ1w&t
+
 ## Installation steps
 
 Fill out `terraform-setup/terraform.tfvars` with aws and digital ocean credentials.
