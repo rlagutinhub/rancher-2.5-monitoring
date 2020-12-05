@@ -2,6 +2,7 @@
 
 * https://promcat.io/
 * https://www.youtube.com/watch?v=al7DdC-ZJ1w
+* https://rancher.com/docs/rancher/v2.x/en/monitoring-alerting/v2.5/
 
 ## Installation steps
 
