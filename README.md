@@ -1,8 +1,7 @@
 # Code examples for Master Class: Monitoring and alerting in Rancher 2.5
 
-FYI, 
-> https://promcat.io/
-> https://www.youtube.com/watch?v=al7DdC-ZJ1w
+* https://promcat.io/
+* https://www.youtube.com/watch?v=al7DdC-ZJ1w
 
 ## Installation steps
 
